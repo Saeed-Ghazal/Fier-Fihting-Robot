@@ -45,10 +45,8 @@ The robot is controlled via an ESP32 microcontroller and has a dual-mode operati
 
 ### Robot Images
 
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <img src="https://github.com/Saeed-Ghazal/Fier-Fihting-Robot/blob/main/Robot%20image.png?raw=true" alt="Robot Image" style="width: 400px; max-width: 100%; height: auto;" />
-  <img src="https://github.com/USERNAME/REPO/blob/main/WhatsApp%20Image%202025-11-22%20at%2014.48.13_1f60b71a.jpg?raw=true" alt="Robot Image" style="width: 400px; max-width: 100%; height: auto;" />
-
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <img src="https://github.com/Saeed-Ghazal/Fier-Fihting-Robot/blob/main/image1.jpg?raw=true" alt="Robot Image 1" style="width: 300px; height: auto;" />
   <img src="https://github.com/Saeed-Ghazal/Fier-Fihting-Robot/blob/main/image2.jpg?raw=true" alt="Robot Image 2" style="width: 300px; height: auto;" />
 </div>
