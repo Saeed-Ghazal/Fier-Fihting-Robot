@@ -1,73 +1,81 @@
-# 🤖 Fire-Fighting Robot
+# 👋 Hi, I'm Saeed Ghazal
 
+## AI Engineer | 3D Designer
 
+---
 
-   <img src="https://github.com/Saeed-Ghazal/Fier-Fihting-Robot/blob/main/Robot%20image.png?raw=true" alt="Robot Image" style="width: 400px; max-width: 100%; height: auto;" />
+### Fire-Fighting Robot Project
 
+This is a Fire-Fighting Robot designed for the Fire Fighting Robot Contest (FFRC).  
+It can detect and extinguish small fires and collect balls using a suction mechanism.  
+The robot is controlled via an ESP32 microcontroller and has a dual-mode operation: manual for initial regions and autonomous in the final region.
+
+---
+
+### Features
+
+- 6-DOF robotic arm for precise manipulation.
+- Integrated suction mechanism to collect balls easily.
+- Dual-function fan to extinguish candles by reversing airflow.
+- Full control via ESP32 microcontroller and mobile app.
+- Various sensors for detecting candles, balls, and avoiding edges.
+
+---
+
+### Components
+
+| English Name | Description |
+|--------------|-------------|
+| Microcontroller Board (ESP32/NodeMCU-like) | Central board with processor controlling all functions. |
+| L298N Motor Driver Module | Controls direction & speed of DC motors. |
+| DC Motors | Yellow motors connected to the L298N driver. |
+| 4-Channel Relay Module | Controls high-power circuits using low-voltage signals. |
+| PIR Motion Sensor | Detects motion via infrared changes. |
+| Ultrasonic Sensor (HC-SR04) | Measures distance using ultrasonic waves. |
+| IR/Proximity Sensors | Detects lines or edges. |
+| Servo Motors | Precise angle control for manipulations. |
+| Servo Driver Board (PCA9685) | Controls multiple servos to reduce load on main controller. |
+| AAA Battery Holder | Holds AAA batteries to power the robot. |
+| Digital Display with Encoder | Displays info and allows adjustment. |
+| High-Power Switch/Control Module | Controls heavy loads like motors or pumps. |
+| LED | Indicator light. |
+| Breadboard | For prototyping and testing connections. |
+
+---
+
+### Robot Images
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://github.com/Saeed-Ghazal/Fier-Fihting-Robot/blob/main/Robot%20image.png?raw=true" alt="Robot Image" style="width: 400px; max-width: 100%; height: auto;" />
   <img src="https://github.com/Saeed-Ghazal/Fier-Fihting-Robot/blob/main/image1.jpg?raw=true" alt="Robot Image 1" style="width: 300px; height: auto;" />
   <img src="https://github.com/Saeed-Ghazal/Fier-Fihting-Robot/blob/main/image2.jpg?raw=true" alt="Robot Image 2" style="width: 300px; height: auto;" />
 </div>
 
-This is a fire-fighting robot designed to detect and respond to both fire and gas leaks. It integrates a 6 DOF robotic arm and various sensors, and can be fully controlled via a mobile application using the ESP32 microcontroller.
+---
+
+### Arena Images
+
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://github.com/Saeed-Ghazal/Fier-Fihting-Robot/blob/main/Arena1.jpg?raw=true" alt="Arena Image 1" style="width: 300px; height: auto;" />
+  <img src="https://github.com/Saeed-Ghazal/Fier-Fihting-Robot/blob/main/Arena2.jpg?raw=true" alt="Arena Image 2" style="width: 300px; height: auto;" />
+</div>
 
 ---
 
-## 🚀 Features
+### Skills
 
-- 🔥 **Flame detection** using flame sensors
-- 🧪 **Gas leak detection** with real-time alerts
-- 🤖 **6 DOF Robotic Arm** to interact with environment
-- 💨 **Air Pump** to help extinguish fire
-- 📱 **Remote control** via mobile app over WiFi
-- 🔋 Powered by 18650 battery pack
-
----
-
-## 🧰 Components Used
-
-| Component                        | Description                     |
-|----------------------------------|---------------------------------|
-| ESP32 WROOM                     | Main microcontroller (WiFi)     |
-| Breadboard                      | Prototyping connections         |
-| 4-Channel Relay Module (5V)     | Control high-current devices    |
-| Relay Module (5V)               | Control air pump independently  |
-| L298N Motor Driver              | Drive DC motors                 |
-| Flame Sensor                    | Detects presence of fire        |
-| Gas Sensor                      | Detects gas leaks               |
-| Servo Motor                     | Control robotic arm             |
-| DC Motors                       | Robot movement                  |
-| Air Pump                        | Assists in extinguishing fire   |
-| Battery Holder (4x 18650)       | Power source                    |
-| 6 DOF Robotic Arm Kit           | Performs physical tasks         |
+- Robotics Development & Simulation
+- Embedded Systems (ESP32)
+- Sensors Integration (Ultrasonic, IR, PIR)
+- Actuators Control (DC Motors, Servo Motors)
+- Mobile App Control
+- Mechanical Design (3D CAD)
 
 ---
 
-## 🧠 How It Works
+### Contact
 
-1. Sensors continuously monitor for fire or gas.
-2. When detected, the robot can:
-   - Trigger alerts via app
-   - Move towards the source
-   - Use air pump to assist in extinguishing
-   - Operate robotic arm for custom actions
-3. All operations can be controlled manually via mobile app.
-
----
-
-## 📱 Mobile App
-
-The robot is fully controllable from a mobile application. The app allows:
-
-- Real-time movement control
-- Sensor data display
-- Notifications when fire or gas is detected
-- Manual activation of arm and air pump
-
----
-
-## 📜 License
-
-This project is licensed for **personal and educational use only**.  
-**Commercial use, redistribution, or sale of this project or its derivatives is strictly prohibited.**  
+- [LinkedIn](https://www.linkedin.com/in/saeed-ghazal-a81941302/)
+- [YouTube](https://www.youtube.com/@SaeedGhazal-x2f7n)
+- [Instagram](https://www.instagram.com/saeed_ghazalll/)
+- [Gmail](mailto:saeed.montaser.ai@gmail.com)
