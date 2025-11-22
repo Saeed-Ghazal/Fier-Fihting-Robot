@@ -1,8 +1,3 @@
-# 👋 Hi, I'm Saeed Ghazal
-
-## AI Engineer | 3D Designer
-
----
 
 ### Fire-Fighting Robot Project
 
