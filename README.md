@@ -50,12 +50,7 @@ The robot is controlled via an ESP32 microcontroller and has a dual-mode operati
 
 ### Arena Images
 
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github.com/USERNAME/REPO/blob/main/Screenshot%202025-11-22%20143713.png?raw=true" alt="Screenshot" style="width: 400px; max-width: 100%; height: auto;" />
-
-  <img src="https://github.com/USERNAME/REPO/blob/main/Screenshot%202025-11-22%20143642.png?raw=true" alt="Screenshot 2" style="width: 400px; max-width: 100%; height: auto;" />
-  
-</div>
+| <img src="https://github.com/USERNAME/REPO/blob/main/Screenshot%202025-11-22%20143713.png?raw=true" width="300"/> | <img src="https://github.com/USERNAME/REPO/blob/main/Screenshot%202025-11-22%20143642.png?raw=true" width="300"/> |
 
 ---
 
