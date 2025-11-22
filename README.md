@@ -2,6 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/1dda656f-7a32-47fc-aaad-4e05de6140a6" alt="Robot image" style="width: 400px; max-width: 100%; height: auto;" />
 <img src="https://github.com/Saeed-Ghazal/Fier-Fihting-Robot/blob/main/image1.jpg?raw=true" alt="Second Robot Image" style="width: 400px; max-width: 100%; height: auto;" />
+<img src="https://github.com/Saeed-Ghazal/Fier-Fihting-Robot/blob/main/image2.jpg?raw=true" alt="Second Robot Image" style="width: 400px; max-width: 100%; height: auto;" />
 
 
 This is a fire-fighting robot designed to detect and respond to both fire and gas leaks. It integrates a 6 DOF robotic arm and various sensors, and can be fully controlled via a mobile application using the ESP32 microcontroller.
