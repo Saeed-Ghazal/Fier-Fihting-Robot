@@ -50,7 +50,8 @@ The robot is controlled via an ESP32 microcontroller and has a dual-mode operati
 
 ### Arena Images
 
-| <img src="https://github.com/USERNAME/REPO/blob/main/Screenshot%202025-11-22%20143713.png?raw=true" width="300"/> | <img src="https://github.com/USERNAME/REPO/blob/main/Screenshot%202025-11-22%20143642.png?raw=true" width="300"/> |
+| <img src="https://github.com/Saeed-Ghazal/Fier-Fihting-Robot/blob/main/Screenshot%202025-11-22%20143713.png?raw=true" width="300"/> | <img src="https://github.com/Saeed-Ghazal/Fier-Fihting-Robot/blob/main/Screenshot%202025-11-22%20143642.png?raw=true" width="300"/> |
+
 
 ---
 
