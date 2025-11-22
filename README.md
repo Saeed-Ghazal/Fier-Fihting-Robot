@@ -1,6 +1,7 @@
 # 🤖 Fire-Fighting Robot
 
- <img src="https://github.com/Saeed-Ghazal/Fier-Fihting-Robot/blob/main/image3.jpg?raw=true" alt="Robot Image 3" style="width: 300px; height: auto;" />
+ <img src="https://github.com/Saeed-Ghazal/Fier-Fihting-Robot/blob/main/Robot%20image.png?raw=true" alt="Robot Image" style="width: 400px; max-width: 100%; height: auto;" />
+
  
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <img src="https://github.com/Saeed-Ghazal/Fier-Fihting-Robot/blob/main/image1.jpg?raw=true" alt="Robot Image 1" style="width: 300px; height: auto;" />
